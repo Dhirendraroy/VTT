@@ -30,11 +30,7 @@
 </dependency>
 
 
-<dependency>
-<groupId>com</groupId>
-  <artifactId>ITtrainingHubBackEnd</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-</dependency>
+
     
   </dependencies>
   <build>
