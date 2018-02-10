@@ -137,7 +137,7 @@
 <footer class="container">
 <div>Follow Us On
       	<p class="float-left" style="padding-right:10px;" align="right" >
-      		<a href="https://www.facebook.com/hifishopee/"><i class="fa fa-facebook" style="padding-right:10px;" aria-hidden="true"></i>
+      		<a href="https://www.facebook.com/dhirendraroy/"><i class="fa fa-facebook" style="padding-right:10px;" aria-hidden="true"></i>
       		</a>
       		<a href="https://www.twitter.com/"><i class="fa fa-twitter" style="padding-right:10px;" aria-hidden="true"></i>
       		</a>
